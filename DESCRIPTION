@@ -10,3 +10,7 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/tombeesley/lupsr
 BugReports: https://github.com/tombeesley/issues
+Imports:
+  learnr,
+  tidyverse
+  
