@@ -7,12 +7,12 @@
 
 <!-- badges: end -->
 
-**lupsr** is a collection of tutorials in data manipulation and
-statistics. It is written primarily for students in the Psychology
-Department at Lancaster University. Much of the content in **lupsr** is
-written with the package “learnr” which provides interactive exercises
-that can be run either within the R Studio IDE or in a local web
-browser. No knowledge of programming concepts or R / R Studio is
+**lupsr** is a package that contains a collection of tutorials in data
+manipulation and statistics. It is written primarily for students in the
+Psychology Department at Lancaster University. The content in **lupsr**
+is written with the package “learnr”, which provides interactive
+exercises that can be run either within the R Studio IDE or in a local
+web browser. No knowledge of programming concepts or R / R Studio is
 required to get started with the tuition. Follow the installation and
 usage below to get started.
 
@@ -26,7 +26,7 @@ with:
 devtools::install_github("tombeesley/lupsr")
 ```
 
-lupsr imports “learnr” and “tidyverse” packages at installation is these
+lupsr imports “learnr” and “tidyverse” packages at installation if these
 are not already installed.
 
 ## Use
