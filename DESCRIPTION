@@ -1,11 +1,10 @@
 Package: lupsr
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Lancaster University Psychology Stats in R 
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Tom Beesley
+Maintainer: Tom Beesley <t.beesley@lancaser.ac.uk>
+Description: A set of teaching materials and exercises for psychology students at Lancaster University (and beyond)
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
